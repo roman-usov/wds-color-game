@@ -1,0 +1,22 @@
+{
+  "name": "wds-color-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Rgb.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roman-usov/wds-color-game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/roman-usov/wds-color-game/issues"
+  },
+  "homepage": "https://github.com/roman-usov/wds-color-game#readme",
+  "dependencies": {
+    "prettier": "^2.7.1"
+  }
+}
